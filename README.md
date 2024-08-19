@@ -5,7 +5,6 @@ This project visualizes satellite coverage using position data and overlays the 
 ## Features
 - Generates a heatmap of satellite coverage based on position data.
 - Overlays the heatmap on a world map of oceans from Natural Earth shapefiles.
-- Provides counts of satellite passes at specific geographic points.
 
 ## Requirements
 
