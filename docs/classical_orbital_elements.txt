@@ -1,0 +1,96 @@
+Satellite: GLOBAL-2
+Semi-major axis (km): 6953.960636927171
+Eccentricity: 0.0006902504263272851
+Inclination (degrees): 97.4547406432036
+RAAN (degrees): 63.1633770479045
+Argument of perigee (degrees): 53.96854301214121
+True anomaly (degrees): 157.0881538461642
+
+Satellite: GLOBAL-4
+Semi-major axis (km): 6883.0587955881965
+Eccentricity: 0.0011833542591236027
+Inclination (degrees): 45.0007917578175
+RAAN (degrees): 189.38905482594592
+Argument of perigee (degrees): 336.94807324265565
+True anomaly (degrees): 130.3963245641612
+
+Satellite: GLOBAL-9
+Semi-major axis (km): 6873.477975352394
+Eccentricity: 0.0017321512855428675
+Inclination (degrees): 44.97994957167718
+RAAN (degrees): 186.9125278607056
+Argument of perigee (degrees): 110.54322052438042
+True anomaly (degrees): 130.68721963640576
+
+Satellite: GLOBAL-14
+Semi-major axis (km): 6875.339431974391
+Eccentricity: 0.0013556609899670756
+Inclination (degrees): 42.02820971023885
+RAAN (degrees): 118.04751872058374
+Argument of perigee (degrees): 339.2102177383938
+True anomaly (degrees): 22.20999150367209
+
+Satellite: GLOBAL-12
+Semi-major axis (km): 6875.703693753357
+Eccentricity: 0.0012137056808912722
+Inclination (degrees): 53.22513436897876
+RAAN (degrees): 306.12939432474843
+Argument of perigee (degrees): 105.55547987049329
+True anomaly (degrees): 74.17673300336733
+
+Satellite: GLOBAL-13
+Semi-major axis (km): 6851.975869015992
+Eccentricity: 0.0008110875947767741
+Inclination (degrees): 53.225668953162355
+RAAN (degrees): 316.8460506230145
+Argument of perigee (degrees): 107.97166462561472
+True anomaly (degrees): 77.06891603851595
+
+Satellite: GLOBAL-17
+Semi-major axis (km): 6868.941825729163
+Eccentricity: 0.001720940975393445
+Inclination (degrees): 42.011446963309574
+RAAN (degrees): 246.94172569723492
+Argument of perigee (degrees): 148.19160814810968
+True anomaly (degrees): 358.87307377786004
+
+Satellite: GLOBAL-16
+Semi-major axis (km): 6874.740799302156
+Eccentricity: 0.0015777779027864925
+Inclination (degrees): 41.99786710857987
+RAAN (degrees): 240.70700151934278
+Argument of perigee (degrees): 178.6589926782948
+True anomaly (degrees): 123.98238647255612
+
+Satellite: GLOBAL-18
+Semi-major axis (km): 6871.737822210287
+Eccentricity: 0.001385745531132535
+Inclination (degrees): 52.999839860652074
+RAAN (degrees): 171.29799389921573
+Argument of perigee (degrees): 83.15345993714224
+True anomaly (degrees): 305.80062055979175
+
+Satellite: GLOBAL-20
+Semi-major axis (km): 6830.616379206473
+Eccentricity: 0.0016029744636149581
+Inclination (degrees): 52.97696631339561
+RAAN (degrees): 173.5565553747929
+Argument of perigee (degrees): 66.87346701399694
+True anomaly (degrees): 357.0117768432836
+
+Satellite: GLOBAL-19
+Semi-major axis (km): 6875.496063243012
+Eccentricity: 0.0014789620489972992
+Inclination (degrees): 42.02787236863759
+RAAN (degrees): 24.971675872438176
+Argument of perigee (degrees): 154.95718663327548
+True anomaly (degrees): 34.85648149658929
+
+Satellite: GLOBAL-5
+Semi-major axis (km): 6869.198499716154
+Eccentricity: 0.0019260887354274352
+Inclination (degrees): 42.01562617694841
+RAAN (degrees): 26.47777337343039
+Argument of perigee (degrees): 81.15406776442072
+True anomaly (degrees): 62.50339417933109
+

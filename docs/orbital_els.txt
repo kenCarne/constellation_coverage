@@ -1,0 +1,16 @@
+Satellite: GLOBAL-2
+Semi-major axis (km): 6992.046118450553
+Eccentricity: 0.0006845235081377501
+Inclination (degrees): 97.46206537842686
+RAAN (degrees): 136.94964033606118
+Argument of perigee (degrees): 273.7723002760123
+True anomaly (degrees): 177.23244762297077
+
+Satellite: GLOBAL-13
+Semi-major axis (km): 6777.244074462695
+Eccentricity: 0.0014270870477133368
+Inclination (degrees): 53.194332673338515
+RAAN (degrees): 41.92309618927451
+Argument of perigee (degrees): 150.52374010241033
+True anomaly (degrees): 145.2734072210404
+
